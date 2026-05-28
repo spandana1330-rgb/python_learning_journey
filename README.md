@@ -2,3 +2,5 @@
 arithmetic operators https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
 Add if-else logic to evaluate 'Weird' or 'Not Weird'
 https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+Add division operations for integer and float
+https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
