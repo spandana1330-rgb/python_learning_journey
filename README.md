@@ -1,17 +1,13 @@
-# python_learning_journey 
-arithmetic operators https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+# python_learning_journey
 
-Add if-else logic to evaluate 'Weird' or 'Not Weird'
-https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+A repository tracking my progress through Python programming challenges.
 
-Add division operations for integer and float : https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
+## 🚀 Challenges & Topics
 
-
-implement of list operation https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
-
-tuples : https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
-
-
-full name : https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
-
-mutation : https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
+*   **Arithmetic Operators:** [HackerRank Challenge](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+*   **If-Else Logic (Weird or Not Weird):** [HackerRank Challenge](https://hackerrank.com)
+*   **Division Operations (Integer and Float):** [HackerRank Challenge](https://hackerrank.com)
+*   **List Operations Implementation:** [HackerRank Challenge](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
+*   **Tuples:** [HackerRank Challenge](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)
+*   **Full Name Formatting:** [HackerRank Challenge](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true)
+*   **Mutation:** [HackerRank Challenge](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true)
