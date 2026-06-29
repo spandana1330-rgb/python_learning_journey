@@ -8,3 +8,4 @@ Add division operations for integer and float
 https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 implement of list operation https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
 tuples : https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
+full name : https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
