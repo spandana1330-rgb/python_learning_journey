@@ -4,7 +4,7 @@ arithmetic operators https://www.hackerrank.com/challenges/python-arithmetic-ope
 
 Add if-else logic to evaluate 'Weird' or 'Not Weird' https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 
-Add division operations for integer and float : https://hackerrank.com
+Add division operations for integer and float https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 
 implement of list operation https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
 
