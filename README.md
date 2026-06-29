@@ -7,3 +7,4 @@ https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 Add division operations for integer and float
 https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 implement of list operation https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
+tuples : https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
