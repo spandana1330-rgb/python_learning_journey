@@ -13,3 +13,5 @@ tuples : https://www.hackerrank.com/challenges/python-tuples/problem?isFullScree
 full name : https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
 
 mutation : https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
+
+find-string : https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
