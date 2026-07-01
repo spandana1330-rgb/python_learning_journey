@@ -15,3 +15,5 @@ full name : https://www.hackerrank.com/challenges/whats-your-name/problem?isFull
 mutation : https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
 
 find-string : https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
+
+split an join : https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true
