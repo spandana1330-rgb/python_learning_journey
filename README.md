@@ -17,3 +17,5 @@ mutation : https://www.hackerrank.com/challenges/python-mutations/problem?isFull
 find-string : https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
 
 split an join : https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true
+
+text alignment : https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
