@@ -19,3 +19,5 @@ find-string : https://www.hackerrank.com/challenges/find-a-string/problem?isFull
 split an join : https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true
 
 text alignment : https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
+
+string validators : https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
