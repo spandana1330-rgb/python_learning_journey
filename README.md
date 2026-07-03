@@ -20,6 +20,8 @@ split an join : https://www.hackerrank.com/challenges/python-string-split-and-jo
 
 text alignment : https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
 
+designer door mat pattern : https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
+
 string validators : https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
 
 text wrap : https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true
