@@ -25,3 +25,5 @@ designer door mat pattern : https://www.hackerrank.com/challenges/designer-door-
 string validators : https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
 
 text wrap : https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true
+
+covert integer value to binary form : https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true
