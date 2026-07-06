@@ -31,3 +31,5 @@ text wrap : https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen
 covert integer value to binary form : https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true
 
 alphabet rangoli : https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
+
+Minion game : https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
