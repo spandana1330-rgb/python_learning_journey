@@ -33,3 +33,5 @@ covert integer value to binary form : https://www.hackerrank.com/challenges/pyth
 alphabet rangoli : https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
 
 Minion game : https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
+
+Merge the tools : https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true
