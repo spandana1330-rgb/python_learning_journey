@@ -35,3 +35,5 @@ alphabet rangoli : https://www.hackerrank.com/challenges/alphabet-rangoli/proble
 Minion game : https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
 
 Merge the tools : https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true
+
+introducton to sets : https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true
