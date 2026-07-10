@@ -39,3 +39,5 @@ Merge the tools : https://www.hackerrank.com/challenges/merge-the-tools/problem?
 introducton to sets : https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true
 
 itertool.product : https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true
+
+Symmetric Difference : https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true
